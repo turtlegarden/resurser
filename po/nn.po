@@ -9,10 +9,10 @@ msgstr ""
 "Project-Id-Version: \n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2024-08-26 01:10+0200\n"
-"PO-Revision-Date: 2025-07-22 00:35+0200\n"
+"PO-Revision-Date: 2025-07-22 01:08+0200\n"
 "Last-Translator: Sunniva Løvstad <sunniva@turtle.garden>\n"
 "Language-Team: \n"
-"Language: nb\n"
+"Language: nn\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
@@ -27,11 +27,11 @@ msgstr "Resources"
 #. Translators: The summary should be 35 characters or less according to Flathub appstream guidelines
 #: data/net.nokyan.Resources.desktop.in.in:4 data/net.nokyan.Resources.metainfo.xml.in.in:5
 msgid "Keep an eye on system resources"
-msgstr "Hold øye med systemressurser"
+msgstr "Hald auge med systemressurser"
 
 #: data/net.nokyan.Resources.desktop.in.in:10
 msgid "System;Resources;Monitor;Processes;Usage;Task;Manager;CPU;RAM;Memory;GPU;"
-msgstr "System;Ressurser;Monitor;Prosess;Bruk;Prosesser;Overvåke;Task;Manager;CPU;RAM;Minne;GPU;"
+msgstr "System;Ressurser;Monitor;Prosess;Bruk;Prosessar;Overvake;Overvaka;Task;Manager;CPU;RAM;Minne;GPU;"
 
 #: data/net.nokyan.Resources.metainfo.xml.in.in:17
 msgid ""
@@ -39,13 +39,13 @@ msgid ""
 "running processes and apps. It’s designed to be user-friendly and feel right at home on a "
 "modern desktop by using GNOME’s libadwaita."
 msgstr ""
-"Resources lar deg sjekke forbruket av systemressursene dine og håndtere kjørende prosesser og "
-"apper. Den er utviklet for å være brukervennlig og å høre hjemme på et moderne skrivebord ved "
-"å bruke GNOMEs libadwaita."
+"Resources lèt deg sjekke forbruket av systemressursene dine og handsama køyrande prosessar og "
+"appar. Han er utvikla for å vera brukarvenleg og å høyre heime på eit moderne skrivebord ved å "
+"bruke GNOMEs libadwaita."
 
 #: data/net.nokyan.Resources.metainfo.xml.in.in:20
 msgid "Resources supports monitoring the following components:"
-msgstr "Resources kan overvåke de følgende komponenter:"
+msgstr "Resources kan overvaka dei fylgjande komponentane:"
 
 #: data/net.nokyan.Resources.metainfo.xml.in.in:24
 msgid "CPU"
@@ -75,39 +75,39 @@ msgstr "Nettverksgrensesnitt"
 
 #: data/net.nokyan.Resources.metainfo.xml.in.in:28
 msgid "Storage Devices"
-msgstr "Lagringsenheter"
+msgstr "Lagringseiningar"
 
 #: data/net.nokyan.Resources.metainfo.xml.in.in:29
 msgid "Batteries"
-msgstr "Batterier"
+msgstr "Batteri"
 
 #: data/net.nokyan.Resources.metainfo.xml.in.in:51
 msgid "Apps page in light theme"
-msgstr "Apper-fanen i lys drakt"
+msgstr "Appar-fana i lys drakt"
 
 #: data/net.nokyan.Resources.metainfo.xml.in.in:55
 msgid "Processes page in dark theme"
-msgstr "Prosesser-fanen i mørk drakt"
+msgstr "Prosesser-fana i mørk drakt"
 
 #: data/net.nokyan.Resources.metainfo.xml.in.in:59
 msgid "Processor page in light theme"
-msgstr "Prosessor-fanen i lys drakt"
+msgstr "Prosessor-fana i lys drakt"
 
 #: data/net.nokyan.Resources.metainfo.xml.in.in:63
 msgid "Memory page in dark theme"
-msgstr "Minne-fanen i mørk drakt"
+msgstr "Minne-fana i mørk drakt"
 
 #: data/net.nokyan.Resources.metainfo.xml.in.in:67
 msgid "GPU page in light theme"
-msgstr "GPU-fanen i lys drakt"
+msgstr "GPU-fana i lys drakt"
 
 #: data/net.nokyan.Resources.metainfo.xml.in.in:71
 msgid "Drive page in dark theme"
-msgstr "Disk-fanen i mørk drakt"
+msgstr "Disk-fana i mørk drakt"
 
 #: data/net.nokyan.Resources.metainfo.xml.in.in:75
 msgid "Network Interface page in light theme"
-msgstr "Nettverksgrensesnitt-fanen i lys drakt"
+msgstr "Nettverksgrensesnitt-fana i lys drakt"
 
 #: data/net.nokyan.Resources.metainfo.xml.in.in:79
 msgid "Battery page in dark theme"
@@ -184,11 +184,11 @@ msgstr "Ja (Snap)"
 #: src/ui/pages/applications/mod.rs:165 data/resources/ui/window.ui:65
 #: data/resources/ui/window.ui:72 data/resources/ui/dialogs/settings_dialog.ui:127
 msgid "Apps"
-msgstr "Apper"
+msgstr "Appar"
 
 #: src/ui/pages/applications/mod.rs:700
 msgid "Running Apps: {}"
-msgstr "Kjørende apper: {}"
+msgstr "Køyrande appar: {}"
 
 #: src/ui/pages/applications/mod.rs:741 src/ui/pages/processes/mod.rs:798
 msgid "Cancel"
@@ -240,14 +240,14 @@ msgstr "Diskskrivingstotal"
 #: data/resources/ui/dialogs/settings_dialog.ui:173
 #: data/resources/ui/dialogs/settings_dialog.ui:255
 msgid "Video Encoder"
-msgstr "Videokoder"
+msgstr "Videokodar"
 
 #: src/ui/pages/applications/mod.rs:1335 src/ui/pages/processes/mod.rs:1515
 #: data/resources/ui/dialogs/app_dialog.ui:158 data/resources/ui/dialogs/process_dialog.ui:136
 #: data/resources/ui/dialogs/settings_dialog.ui:178
 #: data/resources/ui/dialogs/settings_dialog.ui:260
 msgid "Video Decoder"
-msgstr "Videoavkoder"
+msgstr "Videoavkodar"
 
 #: src/ui/pages/applications/mod.rs:1394 src/ui/pages/processes/mod.rs:1575
 #: data/resources/ui/dialogs/app_dialog.ui:140 data/resources/ui/dialogs/process_dialog.ui:118
@@ -270,27 +270,27 @@ msgstr "Død {}?"
 
 #: src/ui/pages/applications/mod.rs:1454 src/ui/pages/processes/mod.rs:1880
 msgid "Continue {}?"
-msgstr "Fortsett {}?"
+msgstr "Lat {} halde fram?"
 
 #: src/ui/pages/applications/mod.rs:1460 src/ui/pages/processes/mod.rs:1886
 msgid "Unsaved work might be lost."
-msgstr "Ulagret arbeid kan bli mistet."
+msgstr "Ulagra arbeid kan verte missa."
 
 #: src/ui/pages/applications/mod.rs:1461
 msgid ""
 "Halting an app can come with serious risks such as losing data and security implications. Use "
 "with caution."
 msgstr ""
-"Å stoppe en app kan medføre alvorlige risikoer som tap av data og sikkerhetskonsekvenser. Bruk "
-"med omhu."
+"Å stoppe ein app kan medføre alvorlege risikoar som tap av data og tryggleikskonsekvensar. "
+"Bruk med omhug."
 
 #: src/ui/pages/applications/mod.rs:1462
 msgid ""
 "Killing an app can come with serious risks such as losing data and security implications. Use "
 "with caution."
 msgstr ""
-"Å døde en app kan medføre alvorlige risikoer som tap av data og sikkerhetskonsekvenser. Bruk "
-"med omhu."
+"Å døde ein app kan medføre alvorlege risikoar som tap av data og tryggleikskonsekvensar. Bruk "
+"med omhug."
 
 #: src/ui/pages/applications/mod.rs:1469 data/resources/ui/pages/applications.ui:22
 #: data/resources/ui/pages/applications.ui:127
@@ -310,7 +310,7 @@ msgstr "Død app"
 #: src/ui/pages/applications/mod.rs:1472 data/resources/ui/pages/applications.ui:14
 #: data/resources/ui/pages/applications.ui:34
 msgid "Continue App"
-msgstr "Fortsett app"
+msgstr "Lat app halde fram"
 
 #: src/ui/pages/battery.rs:144 src/ui/pages/drive.rs:165
 msgid "Drive"
@@ -318,16 +318,16 @@ msgstr "Disk"
 
 #: src/ui/pages/battery.rs:244
 msgid "Battery Charge"
-msgstr "Ladning"
+msgstr "Lading"
 
 #: src/ui/pages/battery.rs:251 data/resources/ui/pages/gpu.ui:55
 msgid "Power Usage"
-msgstr "Strømforbruk"
+msgstr "Straumforbruk"
 
 #: src/ui/pages/battery.rs:308 src/ui/pages/drive.rs:365 src/ui/pages/drive.rs:395
 #: src/ui/pages/network.rs:349 src/ui/pages/network.rs:383
 msgid "Highest:"
-msgstr "Høyest:"
+msgstr "Høgst:"
 
 #: src/ui/pages/cpu.rs:252 src/ui/pages/gpu.rs:241
 msgid "Total Usage"
@@ -357,15 +357,15 @@ msgstr "L: {} · S: {}"
 
 #: src/ui/pages/gpu.rs:249
 msgid "Video Encoder/Decoder Usage"
-msgstr "Bruk av videokoderen og -avkoderen"
+msgstr "Bruk av videokodaren og -avkodaren"
 
 #: src/ui/pages/gpu.rs:255
 msgid "Video Encoder Usage"
-msgstr "Bruk av videokoderen"
+msgstr "Bruk av videokodaren"
 
 #: src/ui/pages/gpu.rs:260
 msgid "Video Decoder Usage"
-msgstr "Bruk av videoavkoderen"
+msgstr "Bruk av videoavkodaren"
 
 #: src/ui/pages/gpu.rs:265
 msgid "Video Memory Usage"
@@ -377,7 +377,7 @@ msgstr "VRAM: {}"
 
 #: src/ui/pages/memory.rs:227
 msgid "Swap"
-msgstr "Swap"
+msgstr "Swapminne"
 
 #: src/ui/pages/memory.rs:291
 msgid "{} of {}"
@@ -399,7 +399,7 @@ msgstr "Nettverksgrensesnitt"
 
 #: src/ui/pages/network.rs:261
 msgid "Receiving"
-msgstr "Mottagning"
+msgstr "Mottaking"
 
 #: src/ui/pages/network.rs:265
 msgid "Sending"
@@ -418,7 +418,7 @@ msgstr "Prosesser"
 
 #: src/ui/pages/processes/mod.rs:757
 msgid "Running Processes: {}"
-msgstr "Kjørende prosesser: {}"
+msgstr "Køyrande prosessar: {}"
 
 #: src/ui/pages/processes/mod.rs:845
 msgid "Process"
@@ -432,7 +432,7 @@ msgstr "Prosess-ID"
 #: src/ui/pages/processes/mod.rs:959 data/resources/ui/dialogs/process_dialog.ui:204
 #: data/resources/ui/dialogs/settings_dialog.ui:210
 msgid "User"
-msgstr "Bruker"
+msgstr "Brukar"
 
 #: src/ui/pages/processes/mod.rs:1634 data/resources/ui/dialogs/process_dialog.ui:145
 #: data/resources/ui/dialogs/settings_dialog.ui:265
@@ -442,7 +442,7 @@ msgstr "Total CPU-tid"
 #: src/ui/pages/processes/mod.rs:1693 data/resources/ui/dialogs/process_dialog.ui:154
 #: data/resources/ui/dialogs/settings_dialog.ui:270
 msgid "User CPU Time"
-msgstr "Bruker CPU-tid"
+msgstr "Brukar CPU-tid"
 
 #: src/ui/pages/processes/mod.rs:1752 data/resources/ui/dialogs/process_dialog.ui:163
 #: data/resources/ui/dialogs/settings_dialog.ui:275
@@ -452,23 +452,23 @@ msgstr "System CPU-tid"
 #: src/ui/pages/processes/mod.rs:1811 data/resources/ui/dialogs/process_options_dialog.ui:87
 #: data/resources/ui/dialogs/settings_dialog.ui:280
 msgid "Priority"
-msgstr "Prioritet"
+msgstr "Førerett"
 
 #: src/ui/pages/processes/mod.rs:1887
 msgid ""
 "Halting a process can come with serious risks such as losing data and security implications. "
 "Use with caution."
 msgstr ""
-"Å stoppe en prosess kan medføre alvorlige risikoer som tap av data og sikkerhetskonsekvenser. "
-"Bruk med omhu."
+"Å stoppe ein prosess kan medføre alvorlege risikoar som tap av data og tryggleikskonsekvensar. "
+"Bruk med omhug."
 
 #: src/ui/pages/processes/mod.rs:1888
 msgid ""
 "Killing a process can come with serious risks such as losing data and security implications. "
 "Use with caution."
 msgstr ""
-"Å døde en prosess kan medføre alvorlige risikoer som tap av data og sikkerhetskonsekvenser. "
-"Bruk med omhu."
+"Å døde ein prosess kan medføre alvorlege risikoar som tap av data og tryggleikskonsekvensar. "
+"Bruk med omhug."
 
 #: src/ui/pages/processes/mod.rs:1895 data/resources/ui/pages/processes.ui:22
 #: data/resources/ui/pages/processes.ui:146
@@ -488,7 +488,7 @@ msgstr "Død prosess"
 #: src/ui/pages/processes/mod.rs:1898 data/resources/ui/pages/processes.ui:14
 #: data/resources/ui/pages/processes.ui:34
 msgid "Continue Process"
-msgstr "Fortsett prosess"
+msgstr "Lat prosess halde fram"
 
 #: src/ui/window.rs:301
 msgid "GPU {}"
@@ -496,79 +496,79 @@ msgstr "GPU {}"
 
 #: src/ui/window.rs:916
 msgid "Successfully adjusted {}"
-msgstr "Endret {}"
+msgstr "Endra {}"
 
 #: src/ui/window.rs:917
 msgid "There was a problem adjusting {}"
-msgstr "Det oppsto et problem med å endre {}"
+msgstr "Eit problem oppstod med å endre {}"
 
 #: src/ui/window.rs:997
 msgid "Successfully ended {}"
-msgstr "Avsluttet {}"
+msgstr "Avslutta {}"
 
 #: src/ui/window.rs:998
 msgid "Successfully halted {}"
-msgstr "Stoppet {}"
+msgstr "Stoppa {}"
 
 #: src/ui/window.rs:999
 msgid "Successfully killed {}"
-msgstr "Dødet {}"
+msgstr "Døda {}"
 
 #: src/ui/window.rs:1000
 msgid "Successfully continued {}"
-msgstr "Fortsatte {}"
+msgstr "Lét {} halde fram"
 
 #: src/ui/window.rs:1007
 msgid "There was a problem ending a process"
 msgid_plural "There were problems ending {} processes"
-msgstr[0] "Det oppsto et problem med å avslutte en prosess"
-msgstr[1] "Det oppsto et problem med å avslutte {} prosesser"
+msgstr[0] "Eit problem oppstod med å avslutte ein prosess"
+msgstr[1] "Eit problem oppstod med å avslutte {} prosessar"
 
 #: src/ui/window.rs:1013
 msgid "There was a problem halting a process"
 msgid_plural "There were problems halting {} processes"
-msgstr[0] "Det oppsto et problem med å stoppe en prosess"
-msgstr[1] "Det oppsto et problem med å stoppe {} prosesser"
+msgstr[0] "Eit problem oppstod med å stoppe ein prosess"
+msgstr[1] "Eit problem oppstod med å stoppe {} prosessar"
 
 #: src/ui/window.rs:1019
 msgid "There was a problem killing a process"
 msgid_plural "There were problems killing {} processes"
-msgstr[0] "Det oppsto et problem med å døde en prosess"
-msgstr[1] "Det oppsto et problem med å døde {} prosesser"
+msgstr[0] "Eit problem oppstod med å døde ein prosess"
+msgstr[1] "Eit problem oppstod med å døde {} prosessar"
 
 #: src/ui/window.rs:1025
 msgid "There was a problem continuing a process"
 msgid_plural "There were problems continuing {} processes"
-msgstr[0] "Det oppsto et problem med å fortsette en prosess"
-msgstr[1] "Det oppsto et problem med å fortsette {} prosesser"
+msgstr[0] "Eit problem oppstod med å lata ein prosess halde fram"
+msgstr[1] "Eit problem oppstod med å lata {} prosessar halde fram"
 
 #: src/ui/window.rs:1035
 msgid "There was a problem ending {}"
-msgstr "Det oppsto et problem med å avslutte {}"
+msgstr "Eit problem oppstod med å avslutte {}"
 
 #: src/ui/window.rs:1036
 msgid "There was a problem halting {}"
-msgstr "Det oppsto et problem med å stoppe {}"
+msgstr "Eit problem oppstod med å stoppe {}"
 
 #: src/ui/window.rs:1037
 msgid "There was a problem killing {}"
-msgstr "Det oppsto et problem med å døde {}"
+msgstr "Eit problem oppstod med å døde {}"
 
 #: src/ui/window.rs:1038
 msgid "There was a problem continuing {}"
-msgstr "Det oppsto et problem med å fortsette {}"
+msgstr "Eit problem oppstod med å flata {} halde fram"
 
 #: src/utils/app.rs:220
 msgid "System Processes"
-msgstr "Systemprosesser"
+msgstr "Systemprosessar"
 
 #: src/utils/battery.rs:80
 msgid "Charging"
-msgstr "Lader"
+msgstr "Ladar"
 
 #: src/utils/battery.rs:81
 msgid "Discharging"
-msgstr "Avlader"
+msgstr "Avladar"
 
 #: src/utils/battery.rs:82
 msgid "Empty"
@@ -580,7 +580,7 @@ msgstr "Full"
 
 #: src/utils/battery.rs:84
 msgid "Unknown"
-msgstr "Ukjent"
+msgstr "Ukjend"
 
 #: src/utils/battery.rs:130
 msgid "Nickel-Metal Hydride"
@@ -644,11 +644,11 @@ msgstr "Harddisk"
 
 #: src/utils/drive.rs:87
 msgid "Loop Device"
-msgstr "Sløyfeenhet"
+msgstr "Sløyfeeining"
 
 #: src/utils/drive.rs:88
 msgid "Mapped Device"
-msgstr "Kartlagt enget"
+msgstr "Kartlagd eining"
 
 #: src/utils/drive.rs:89
 msgid "NVMe Drive"
@@ -664,7 +664,7 @@ msgstr "RAM-disk"
 
 #: src/utils/drive.rs:93
 msgid "Solid State Drive"
-msgstr "Halvlederdisk"
+msgstr "Halvleiardisk"
 
 #: src/utils/drive.rs:94
 msgid "ZFS Volume"
@@ -676,11 +676,11 @@ msgstr "Komprimert RAM-disk (zram)"
 
 #: src/utils/drive.rs:155
 msgid "{} Loop Device"
-msgstr "{}-sløyfeenhet"
+msgstr "{}-sløyfeeining"
 
 #: src/utils/drive.rs:156
 msgid "{} Mapped Device"
-msgstr "{}-kartlagt-enhet"
+msgstr "{}-kartlagd-eining"
 
 #: src/utils/drive.rs:157
 msgid "{} RAID"
@@ -692,7 +692,7 @@ msgstr "{}-RAM-disk"
 
 #: src/utils/drive.rs:159
 msgid "{} zram Device"
-msgstr "{}-zram-enhet"
+msgstr "{}-zram-eining"
 
 #: src/utils/drive.rs:160
 msgid "{} ZFS Volume"
@@ -704,51 +704,51 @@ msgstr "{}-disk"
 
 #: src/utils/network.rs:116
 msgid "Bluetooth Tether"
-msgstr "Blåtanntilknytting"
+msgstr "Blåtanntilknyting"
 
 #: src/utils/network.rs:117
 msgid "Network Bridge"
-msgstr "Nettverksbro"
+msgstr "Nettverksbru"
 
 #: src/utils/network.rs:118
 msgid "Ethernet Connection"
-msgstr "Ethernet-tilkobling"
+msgstr "Ethernet-tilkopling"
 
 #: src/utils/network.rs:119
 msgid "Docker Bridge"
-msgstr "Docker-bro"
+msgstr "Docker-bru"
 
 #: src/utils/network.rs:120
 msgid "InfiniBand Connection"
-msgstr "InfiniBand-tilkobling"
+msgstr "InfiniBand-tilkopling"
 
 #: src/utils/network.rs:121
 msgid "Serial Line IP Connection"
-msgstr "IP-tilkobling med seriell linje"
+msgstr "IP-tilkopling med seriell linje"
 
 #: src/utils/network.rs:122
 msgid "Virtual Ethernet Device"
-msgstr "Virtuell Ethernet-enhet"
+msgstr "Virtuell Ethernet-eining"
 
 #: src/utils/network.rs:123
 msgid "VM Network Bridge"
-msgstr "VM-nettverksbro"
+msgstr "VM-nettverksbru"
 
 #: src/utils/network.rs:124
 msgid "VPN Tunnel"
-msgstr "VPN-tunnel"
+msgstr "VPN-tunell"
 
 #: src/utils/network.rs:125
 msgid "VPN Tunnel (WireGuard)"
-msgstr "VPN-tunnel (WireGuard)"
+msgstr "VPN-tunell (WireGuard)"
 
 #: src/utils/network.rs:126
 msgid "Wi-Fi Connection"
-msgstr "Wi-Fi-tilkobling"
+msgstr "Wi-Fi-tilkopling"
 
 #: src/utils/network.rs:127
 msgid "WWAN Connection"
-msgstr "WWAN-tilkobling"
+msgstr "WWAN-tilkopling"
 
 #: src/utils/units.rs:59
 msgid "{} K"
@@ -1154,12 +1154,12 @@ msgstr "Generelt"
 #: data/resources/ui/shortcuts.ui:14
 msgctxt "shortcut window"
 msgid "Preferences"
-msgstr "Åpne brukervalg"
+msgstr "Opne innstillingar"
 
 #: data/resources/ui/shortcuts.ui:20
 msgctxt "shortcut window"
 msgid "Show Shortcuts"
-msgstr "Vis snarveier"
+msgstr "Syn snarvegar"
 
 #: data/resources/ui/shortcuts.ui:26
 msgctxt "shortcut window"
@@ -1169,7 +1169,7 @@ msgstr "Avslutt"
 #: data/resources/ui/shortcuts.ui:32
 msgctxt "shortcut window"
 msgid "Toggle Search Field"
-msgstr "Vis eller skjul søkefeltet"
+msgstr "Syn eller skjul søkjefeltet"
 
 #: data/resources/ui/shortcuts.ui:38
 msgctxt "shortcut window"
@@ -1189,25 +1189,25 @@ msgstr "Stopp app/prosess"
 #: data/resources/ui/shortcuts.ui:56
 msgctxt "shortcut window"
 msgid "Continue App/Process"
-msgstr "Fortsett app/prosess"
+msgstr "Lat app/prosess halde fram"
 
 #: data/resources/ui/shortcuts.ui:62
 msgctxt "shortcut window"
 msgid "Show Information for App/Process"
-msgstr "Vis app- eller prosessopplysninger"
+msgstr "Syn app- eller prosessopplysningar"
 
 #: data/resources/ui/shortcuts.ui:68
 msgctxt "shortcut window"
 msgid "Show Process Options"
-msgstr "Vis prosessinnstillinger"
+msgstr "Syn prosessinnstillingar"
 
 #: data/resources/ui/window.ui:6
 msgid "Preferences"
-msgstr "Innstillnger"
+msgstr "Innstillngar"
 
 #: data/resources/ui/window.ui:10
 msgid "Keyboard Shortcuts"
-msgstr "Tastatursnarveier"
+msgstr "Tastatursnarvegar"
 
 #: data/resources/ui/window.ui:14
 msgid "About Resources"
@@ -1215,7 +1215,7 @@ msgstr "Om Resources"
 
 #: data/resources/ui/dialogs/app_dialog.ui:7
 msgid "App Information"
-msgstr "Appopplysninger"
+msgstr "Appopplysningar"
 
 #: data/resources/ui/dialogs/app_dialog.ui:70 data/resources/ui/dialogs/process_dialog.ui:48
 #: data/resources/ui/pages/battery.ui:22 data/resources/ui/pages/cpu.ui:37
@@ -1230,7 +1230,7 @@ msgstr "Bruk"
 #: data/resources/ui/pages/drive.ui:54 data/resources/ui/pages/gpu.ui:80
 #: data/resources/ui/pages/memory.ui:42 data/resources/ui/pages/network.ui:51
 msgid "Properties"
-msgstr "Egenskaper"
+msgstr "Eigenskapar"
 
 #: data/resources/ui/dialogs/app_dialog.ui:171
 msgid "ID"
@@ -1238,11 +1238,11 @@ msgstr "ID"
 
 #: data/resources/ui/dialogs/app_dialog.ui:181 data/resources/ui/dialogs/process_dialog.ui:186
 msgid "Running Since"
-msgstr "Kjører siden"
+msgstr "Køyrer sidan"
 
 #: data/resources/ui/dialogs/app_dialog.ui:189
 msgid "Running Processes"
-msgstr "Kjørende prosesser"
+msgstr "Køyrande prosessar"
 
 #: data/resources/ui/dialogs/app_dialog.ui:198 data/resources/ui/dialogs/process_dialog.ui:222
 msgid "Containerized"
@@ -1250,7 +1250,7 @@ msgstr "Containerisert"
 
 #: data/resources/ui/dialogs/process_dialog.ui:7
 msgid "Process Information"
-msgstr "Prosessopplysninger"
+msgstr "Prosessopplysningar"
 
 #: data/resources/ui/dialogs/process_dialog.ui:195
 msgid "Commandline"
@@ -1263,7 +1263,7 @@ msgstr "Kontrollgruppe"
 #: data/resources/ui/dialogs/process_options_dialog.ui:7
 #: data/resources/ui/dialogs/process_options_dialog.ui:69
 msgid "Process Options"
-msgstr "Prosessinnstillinger"
+msgstr "Prosessinnstillingar"
 
 #: data/resources/ui/dialogs/process_options_dialog.ui:29
 msgid "Apply"
@@ -1271,25 +1271,25 @@ msgstr "Bruk"
 
 #: data/resources/ui/dialogs/process_options_dialog.ui:72
 msgid "Niceness"
-msgstr "Hyggelighet"
+msgstr "Hyggjelegskap"
 
 #: data/resources/ui/dialogs/process_options_dialog.ui:73
 msgid ""
 "The priority of a process is given by its niceness. A lower niceness value correspond to a "
 "higher priority."
 msgstr ""
-"Prioriteten av en prosess er gitt av hyggeligheten sin. En lavere hyggelighetsverdi tilsvarer "
-"en høyere prioritet."
+"Føreretten av ein prosess er gjeven av hyggjelegskapen sin. Ein lågare hyggjelegskapsverdi "
+"tilsvarar ein høgre førerett."
 
 #: data/resources/ui/dialogs/process_options_dialog.ui:91
 msgctxt "process priority"
 msgid "Very High"
-msgstr "Veldig høy"
+msgstr "Veldig høg"
 
 #: data/resources/ui/dialogs/process_options_dialog.ui:92
 msgctxt "process priority"
 msgid "High"
-msgstr "Høy"
+msgstr "Høg"
 
 #: data/resources/ui/dialogs/process_options_dialog.ui:93
 msgctxt "process priority"
@@ -1299,12 +1299,12 @@ msgstr "Normal"
 #: data/resources/ui/dialogs/process_options_dialog.ui:94
 msgctxt "process priority"
 msgid "Low"
-msgstr "Lav"
+msgstr "Låg"
 
 #: data/resources/ui/dialogs/process_options_dialog.ui:95
 msgctxt "process priority"
 msgid "Very Low"
-msgstr "Veldig lav"
+msgstr "Veldig låg"
 
 #: data/resources/ui/dialogs/process_options_dialog.ui:103
 msgid "Processor Affinity"
@@ -1316,7 +1316,7 @@ msgstr "Slå på/av alle"
 
 #: data/resources/ui/dialogs/process_options_dialog.ui:111
 msgid "Select which processor cores the process is allowed to run on"
-msgstr "Velg hvilke kjerner prosessen kan kjøre på"
+msgstr "Vel kva for nokre kjernar prosessen kan køyre på"
 
 #: data/resources/ui/dialogs/settings_dialog.ui:7
 msgid "General"
@@ -1324,11 +1324,11 @@ msgstr "Generelt"
 
 #: data/resources/ui/dialogs/settings_dialog.ui:10
 msgid "Units"
-msgstr "Enheter"
+msgstr "Einingar"
 
 #: data/resources/ui/dialogs/settings_dialog.ui:13
 msgid "Data Unit Prefix"
-msgstr "Dataenhetsprefiks"
+msgstr "Dataeiningsprefiks"
 
 #: data/resources/ui/dialogs/settings_dialog.ui:17
 msgid "Decimal"
@@ -1340,11 +1340,11 @@ msgstr "Binært"
 
 #: data/resources/ui/dialogs/settings_dialog.ui:26
 msgid "Show Network Speeds in Bits per Second"
-msgstr "Vis nettverkshastigheter i biter per sekund"
+msgstr "Syn nettverksfarter i bitar om sekundet"
 
 #: data/resources/ui/dialogs/settings_dialog.ui:31
 msgid "Temperature Unit"
-msgstr "Temperaturenhet"
+msgstr "Temperatureining"
 
 #: data/resources/ui/dialogs/settings_dialog.ui:35
 msgid "Celsius"
@@ -1360,15 +1360,15 @@ msgstr "Fahrenheit"
 
 #: data/resources/ui/dialogs/settings_dialog.ui:47
 msgid "User Interface"
-msgstr "Brukergrensesnitt"
+msgstr "Brukargrensesnitt"
 
 #: data/resources/ui/dialogs/settings_dialog.ui:50
 msgid "Refresh Speed"
-msgstr "Oppdateringshastighet"
+msgstr "Oppdateringsfart"
 
 #: data/resources/ui/dialogs/settings_dialog.ui:51
 msgid "Higher refresh speeds can lead to higher processor usage"
-msgstr "Høyere oppdateringshastigheter kan føre til høyere bruk av prosessoren"
+msgstr "Høgare oppdateringsfarter kan føre til høgare bruk av prosessoren"
 
 #: data/resources/ui/dialogs/settings_dialog.ui:55
 msgctxt "UI refresh speed"
@@ -1388,41 +1388,42 @@ msgstr "Normal"
 #: data/resources/ui/dialogs/settings_dialog.ui:58
 msgctxt "UI refresh speed"
 msgid "Fast"
-msgstr "Raskt"
+msgstr "Snøgt"
 
 #: data/resources/ui/dialogs/settings_dialog.ui:59
 msgctxt "UI refresh speed"
 msgid "Very Fast"
-msgstr "Veldig raskt"
+msgstr "Veldig snøgt"
 
 #: data/resources/ui/dialogs/settings_dialog.ui:67
 msgid "Show Graph Grids"
-msgstr "Vis grafrutenett"
+msgstr "Syn grafrutenett"
 
 #: data/resources/ui/dialogs/settings_dialog.ui:72
 msgid "Graph Data Points"
-msgstr "Datapunkt på grafer"
+msgstr "Datapunkt på grafar"
 
 #: data/resources/ui/dialogs/settings_dialog.ui:86
 msgid "Show Search Fields on Launch"
-msgstr "Vis søkefelt ved åpning"
+msgstr "Syn søkjefelt ved opning"
 
 #: data/resources/ui/dialogs/settings_dialog.ui:91
 msgid "Show Usage Details in Sidebar"
-msgstr "Vis brukopplysninger i sidefeltet"
+msgstr "Syn brukopplysningar i sidefeltet"
 
 #: data/resources/ui/dialogs/settings_dialog.ui:92
 msgid "If enabled, the usage along with other information will be displayed"
-msgstr "Viser bruk og flere opplysninger dersom dette er aktivert"
+msgstr "Syner bruk og fleire opplysningar dersom dette er aktivert"
 
 #: data/resources/ui/dialogs/settings_dialog.ui:97
 msgid "Show Device Descriptions in Sidebar"
-msgstr "Vis enhetsbeskrivninger i sidefeltet"
+msgstr "Syn einingsskildringar i sidefeltet"
 
 #: data/resources/ui/dialogs/settings_dialog.ui:98
 msgid "If enabled, a device identifier like its name or device type will be displayed"
 msgstr ""
-"Viser en enhetsidentifikator som f.eks. et navn eller en enhetstype dersom dette er aktivert"
+"Syner ein einingssidentifikator som t.d. eit namn eller ein einingstype dersom dette er "
+"aktivert"
 
 #: data/resources/ui/dialogs/settings_dialog.ui:103
 msgid "Sidebar Meter Type"
@@ -1443,59 +1444,58 @@ msgstr "Normaliser prosessorbruk"
 #: data/resources/ui/dialogs/settings_dialog.ui:117
 msgid "If enabled, the total usage of all cores will be divided by the amount of cores"
 msgstr ""
-"Det totale bruket av alle kjerner skal divideres av antallet av kjerner dersom dette er "
-"aktivert"
+"Det totale bruket av alle kjernar skal dividerast med talet kjernar dersom dette er aktivert"
 
 #: data/resources/ui/dialogs/settings_dialog.ui:130
 #: data/resources/ui/dialogs/settings_dialog.ui:202
 msgid "Information Columns"
-msgstr "Opplysningssøyler"
+msgstr "Opplysingssøyler"
 
 #: data/resources/ui/dialogs/settings_dialog.ui:191 data/resources/ui/pages/cpu.ui:22
 #: data/resources/ui/pages/processes.ui:40
 msgid "Options"
-msgstr "Innstillinger"
+msgstr "Innstillingar"
 
 #: data/resources/ui/dialogs/settings_dialog.ui:194
 msgid "Show Niceness Values"
-msgstr "Vis hyggelighetsverdier"
+msgstr "Syn hyggjelegskapsverdiar"
 
 #: data/resources/ui/dialogs/settings_dialog.ui:195
 msgid "Display priorities as niceness to allow for more fine-grained adjustments"
-msgstr "Vis prioriteter som hyggelighet for å kunne foreta mer finkornede justeringer"
+msgstr "Syn førerettar som hyggjelegskap for å kunne føretaka meir finkorna justeringar"
 
 #: data/resources/ui/dialogs/settings_dialog.ui:290
 msgid "Devices"
-msgstr "Enheter"
+msgstr "Einingar"
 
 #: data/resources/ui/dialogs/settings_dialog.ui:293
 msgid "Drives"
-msgstr "Disker"
+msgstr "Diskar"
 
 #: data/resources/ui/dialogs/settings_dialog.ui:296
 msgid "Show Virtual Drives"
-msgstr "Vis virtuelle disker"
+msgstr "Syn virtuelle diskar"
 
 #: data/resources/ui/dialogs/settings_dialog.ui:297
 msgid "Virtual drives are for example ZFS volumes or mapped devices"
-msgstr "Virtuelle disker er f.eks. ZFS-volumer eller kartlagde enheter"
+msgstr "Virtuelle diskar er t.d. ZFS-volum eller kartlagde einingar"
 
 #: data/resources/ui/dialogs/settings_dialog.ui:307
 msgid "Show Virtual Network Interfaces"
-msgstr "Vis virtuelle nettverksgrensesnitt"
+msgstr "Syn virtuelle nettverksgrensesnitt"
 
 #: data/resources/ui/dialogs/settings_dialog.ui:308
 msgid "Virtual network interfaces are for example bridges or VPN tunnels"
-msgstr "Virtuelle nettverksgrensesnitt er f.eks. broer eller VPN-tuneller"
+msgstr "Virtuelle nettverksgrensesnitt er t.d. bruer eller VPN-tunellar"
 
 #: data/resources/ui/pages/applications.ui:40 data/resources/ui/pages/applications.ui:116
 #: data/resources/ui/pages/applications.ui:118
 msgid "Show App Information"
-msgstr "Vis appopplysninger"
+msgstr "Syn appopplysingar"
 
 #: data/resources/ui/pages/applications.ui:80
 msgid "Search applications"
-msgstr "Søk etter applikasjoner"
+msgstr "Søk etter applikasjonar"
 
 #: data/resources/ui/pages/applications.ui:98 data/resources/ui/pages/processes.ui:104
 msgid "Search"
@@ -1503,7 +1503,7 @@ msgstr "Søk"
 
 #: data/resources/ui/pages/applications.ui:100 data/resources/ui/pages/processes.ui:106
 msgid "Toggle search field"
-msgstr "Vis eller skjul søkefeltet"
+msgstr "Syn eller skjul søkjefeltet"
 
 #: data/resources/ui/pages/battery.ui:36
 msgid "Battery Health"
@@ -1515,7 +1515,7 @@ msgstr "Designkapasitet"
 
 #: data/resources/ui/pages/battery.ui:54
 msgid "Charge Cycles"
-msgstr "Ladesykluser"
+msgstr "Ladesyklusar"
 
 #: data/resources/ui/pages/battery.ui:63
 msgid "Technology"
@@ -1528,19 +1528,19 @@ msgstr "Produsent"
 
 #: data/resources/ui/pages/battery.ui:81
 msgid "Model Name"
-msgstr "Modellnavn"
+msgstr "Modellnamn"
 
 #: data/resources/ui/pages/battery.ui:90 data/resources/ui/pages/drive.ui:66
 msgid "Device"
-msgstr "Enhet"
+msgstr "Eining"
 
 #: data/resources/ui/pages/cpu.ui:26
 msgid "Show Usages of Logical CPUs"
-msgstr "Vis bruk av logiske CPU-er"
+msgstr "Syn bruk av logiske CPU-ar"
 
 #: data/resources/ui/pages/cpu.ui:75 data/resources/ui/pages/gpu.ui:66
 msgid "Sensors"
-msgstr "Sensorer"
+msgstr "Sensorar"
 
 #: data/resources/ui/pages/cpu.ui:82 data/resources/ui/pages/gpu.ui:69
 msgid "Temperature"
@@ -1552,15 +1552,15 @@ msgstr "Maksimum frekvens"
 
 #: data/resources/ui/pages/cpu.ui:105
 msgid "Logical Cores"
-msgstr "Logiske kjerner"
+msgstr "Logiske kjernar"
 
 #: data/resources/ui/pages/cpu.ui:114
 msgid "Physical Cores"
-msgstr "Fysiske kjerner"
+msgstr "Fysiske kjernar"
 
 #: data/resources/ui/pages/cpu.ui:123
 msgid "Sockets"
-msgstr "Sokkeler"
+msgstr "Soklar"
 
 #: data/resources/ui/pages/cpu.ui:132
 msgid "Virtualization"
@@ -1572,11 +1572,11 @@ msgstr "Arkitektur"
 
 #: data/resources/ui/pages/drive.ui:38
 msgid "Total Read"
-msgstr "Total lest"
+msgstr "Total lese"
 
 #: data/resources/ui/pages/drive.ui:47
 msgid "Total Written"
-msgstr "Total skrevet"
+msgstr "Total skrive"
 
 #: data/resources/ui/pages/drive.ui:57 data/resources/ui/pages/memory.ui:72
 msgid "Type"
@@ -1588,7 +1588,7 @@ msgstr "Kapasitet"
 
 #: data/resources/ui/pages/drive.ui:84
 msgid "Writable"
-msgstr "Skrivelig"
+msgstr "Skrivbar"
 
 #: data/resources/ui/pages/drive.ui:93
 msgid "Removable"
@@ -1608,15 +1608,15 @@ msgstr "PCI-spor"
 
 #: data/resources/ui/pages/gpu.ui:105 data/resources/ui/pages/network.ui:67
 msgid "Driver Used"
-msgstr "Driver brukt"
+msgstr "Drivar brukt"
 
 #: data/resources/ui/pages/gpu.ui:114
 msgid "Max Power Cap"
-msgstr "Maksimal strømgrense"
+msgstr "Maksimal straumgrense"
 
 #: data/resources/ui/pages/memory.ui:9
 msgid "You need to authenticate to see memory properties"
-msgstr "Du må autentisere for å se minneegenskaper"
+msgstr "Du lyt autentisere for å sjå minneeigenskapar"
 
 #: data/resources/ui/pages/memory.ui:10
 msgid "Authenticate"
@@ -1628,7 +1628,7 @@ msgstr "Spor brukt"
 
 #: data/resources/ui/pages/memory.ui:54
 msgid "Speed"
-msgstr "Hastighet"
+msgstr "Fart"
 
 #: data/resources/ui/pages/memory.ui:63
 msgid "Form Factor"
@@ -1636,11 +1636,11 @@ msgstr "Formfaktor"
 
 #: data/resources/ui/pages/memory.ui:81
 msgid "Type Detail"
-msgstr "Typedetaljer"
+msgstr "Typedetaljar"
 
 #: data/resources/ui/pages/network.ui:35
 msgid "Total Received"
-msgstr "Total mottatt"
+msgstr "Total motteke"
 
 #: data/resources/ui/pages/network.ui:44
 msgid "Total Sent"
@@ -1657,12 +1657,12 @@ msgstr "Maskinvareadresse"
 #: data/resources/ui/pages/processes.ui:46 data/resources/ui/pages/processes.ui:135
 #: data/resources/ui/pages/processes.ui:137
 msgid "Show Process Information"
-msgstr "Vis prosessopplysninger"
+msgstr "Syn prosessopplysingar"
 
 #: data/resources/ui/pages/processes.ui:86
 msgid "Search processes"
-msgstr "Søk etter prosesser"
+msgstr "Søk etter prosessar"
 
 #: data/resources/ui/pages/processes.ui:122 data/resources/ui/pages/processes.ui:124
 msgid "Show Process Options"
-msgstr "Vis prosessinnstillinger"
+msgstr "Syn prosessinnstillingar"
